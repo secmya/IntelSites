@@ -1,0 +1,92 @@
+Sites:
+  - Name: Shodan
+    URL: https://www.shodan.io
+    Description: Search engine for Internet-connected devices.
+    Twitter: "@shodanhq"
+    Note:
+  - Name: GreyNoise
+    URL: 
+    Description: >
+      GreyNoise analyzes Internet background noise. Use GreyNoise to remove
+      security alerts, find compromised devices, or identify emerging threats.
+    Twitter: "@GreyNoiseIO"
+    Note:
+  - Name: VirusTotal
+    URL: 
+    Description: >
+      Analyze suspicious files, domains, IPs and URLs to detect malware and 
+      other breaches, automatically share them with the security community.
+    Twitter: "@virustotal"
+    Note:
+  - Name: URLScan
+    URL: https://urlscan.io
+    Description: A sandbox for websites - Find malicious websites and phishing
+    Note:
+  - Name: Vulners
+    URL: https://vulners.com
+    Description: >
+      Vulnerabilities, exploits, bug bounty and many more in one database.
+    Twitter: "@VulnersCom"
+    Note:
+  - Name: WayBack Machine
+    URL: https://web.archive.org
+    Description: >
+      The Wayback Machine is a digital archive of the World Wide Web, it allows 
+      the user to go "back in time" and see how websites looked in the past.
+    Twitter: "@waybackmachine"
+    Note:
+  - Name: GitHub Advanced Search
+    URL: https://github.com/search/advanced
+    Description: Advanced search interface to GitHub
+    Twitter: "@github"
+    Note:
+  - Name: crt.sh
+    URL: https://crt.sh
+    Description: SSL/TLS Certificate Search
+    Twitter:
+    Note:
+  - Name: Exploit DB
+    URL: https://www.exploit-db.com
+    Description: >
+      The Exploit Database is a CVE compliant archive of public exploits and 
+      corresponding vulnerable software, developed for use by penetration
+      testers and vulnerability researchers.
+    Twitter: "@ExploitDB"
+    Note:
+  - Name: MITRE CVE (Common Vulnerability and Exposures)
+    URL: https://cve.mitre.org
+    Description: Catalog of publicly disclosed cybersecurity vulnerabilities.
+    Twitter: "@CVEnew"
+    Note:
+  - Name: MITRE CWE (Common Weaknesses Enumeration)
+    URL: https://cwe.mitre.org
+    Description: >
+      Comunity-developed list of software and hardware weakness types. It serves 
+      as a common language, a measuring stick for security tools, and as a 
+      baseline for weakness identification, mitigation, and prevention efforts.
+    Twitter: "@CweCapec"
+    Note:
+  - Name: MITRE CAPEC (Common Attack Pattern Enumeration and Classification) 
+    URL: https://capec.mitre.org
+    Description: >
+      roviding a comprehensive dictionary of known patterns of attack employed 
+      by adversaries to exploit known weaknesses in cyber-enabled capabilities.
+    Twitter: "@CweCapec"
+    Note:
+  - Name: RiskIQ Community (previously PassiveTotal)
+    URL: https://community.riskiq.com/home
+    Description: >
+      Search and pivot on Domains, Hosts, IPs, Emails, Tags, Certificates, 
+      Articles, etc
+    Twitter: "@PassiveTotal"
+    Note:
+  - Name: DNS Dumpster
+    URL: https://dnsdumpster.com
+    Description: DNS recon & research, find & lookup dns records
+    Twitter: "@hackertarget"
+    Note:
+  - Name: Talos IP Reputation Center
+    URL: https://talosintelligence.com/reputation_center/
+    Description: Talos IP and domain reputation search
+    Twitter: "@TalosSecurity"
+    Note:
